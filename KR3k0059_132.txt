@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:29.490692
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六之三[目録]
+<pb:KR3k0059_WYG_132-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷十六之三目録¶
+　　下平聲　　　一先韻三¶
+　煙　燕　蓮　憐　田¶
+#+PROPERTY: JUAN 卷十六之三[目録]
+<pb:KR3k0059_WYG_132-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷十六之三目録¶
+　　下平聲　　　一先韻三¶
+　煙　燕　蓮　憐　田¶

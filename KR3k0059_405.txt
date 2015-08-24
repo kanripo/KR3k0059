@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:40.540656
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九之一目録
+<pb:KR3k0059_WYG_405-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四十九之一目録¶
+　　上聲　　　十九皓韻一¶
+　皓　寳　藻　早　棗¶
+#+PROPERTY: JUAN 卷四十九之一目録
+<pb:KR3k0059_WYG_405-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四十九之一目録¶
+　　上聲　　　十九皓韻一¶
+　皓　寳　藻　早　棗¶

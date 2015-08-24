@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:36:04.480916
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二之三[目録]
+<pb:KR3k0059_WYG_850-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷一百二之三¶
+　　入聲　　　十三職韻三¶
+　力　翼　墨¶
+#+PROPERTY: JUAN 卷一百二之三[目録]
+<pb:KR3k0059_WYG_850-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷一百二之三¶
+　　入聲　　　十三職韻三¶
+　力　翼　墨¶

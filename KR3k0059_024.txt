@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:25.945298
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四之六[目録]
+<pb:KR3k0059_WYG_024-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四之六¶
+　　上平聲　　　四支韻六¶
+　絲　司　葵　醫　帷　思　滋　持　隨　癡　維¶
+　卮　麋　螭¶
+#+PROPERTY: JUAN 卷四之六[目録]
+<pb:KR3k0059_WYG_024-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四之六¶
+　　上平聲　　　四支韻六¶
+　絲　司　葵　醫　帷　思　滋　持　隨　癡　維¶
+　卮　麋　螭¶

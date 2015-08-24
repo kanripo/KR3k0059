@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:52.232089
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七之二目録
+<pb:KR3k0059_WYG_639-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻七十七之二目録¶
+　　去聲　　　十八嘯韻二¶
+　竅　妙　詔　召　劭　要¶
+#+PROPERTY: JUAN 卷七十七之二目録
+<pb:KR3k0059_WYG_639-2a>¶
+　欽定四庫全書¶
+御定佩文韻府巻七十七之二目録¶
+　　去聲　　　十八嘯韻二¶
+　竅　妙　詔　召　劭　要¶

@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:29.345814
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六之一[目録]
+<pb:KR3k0059_WYG_128-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷十六之一目録¶
+　　下平聲　　一先韻一¶
+　先　前　千　阡　箋　韉　天¶
+#+PROPERTY: JUAN 卷十六之一[目録]
+<pb:KR3k0059_WYG_128-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷十六之一目録¶
+　　下平聲　　一先韻一¶
+　先　前　千　阡　箋　韉　天¶

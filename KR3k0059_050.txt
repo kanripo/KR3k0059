@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:26.721273
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七之二[目録]
+<pb:KR3k0059_WYG_050-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷七之二¶
+　　上平聲　　　　　七虞韻二¶
+　儒　濡　襦　湏　鬚　株　誅　蛛　殊　銖　瑜　榆　諛¶
+　愉　腴¶
+#+PROPERTY: JUAN 卷七之二[目録]
+<pb:KR3k0059_WYG_050-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷七之二¶
+　　上平聲　　　　　七虞韻二¶
+　儒　濡　襦　湏　鬚　株　誅　蛛　殊　銖　瑜　榆　諛¶
+　愉　腴¶

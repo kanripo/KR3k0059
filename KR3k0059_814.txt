@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:36:02.297205
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百之一[目録]
+<pb:KR3k0059_WYG_814-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷一百之一¶
+　　入聲　　　十一陌韻一¶
+　陌　石¶
+#+PROPERTY: JUAN 卷一百之一[目録]
+<pb:KR3k0059_WYG_814-2a>¶
+　欽定四庫全書¶
+御定佩文韻府卷一百之一¶
+　　入聲　　　十一陌韻一¶
+　陌　石¶
