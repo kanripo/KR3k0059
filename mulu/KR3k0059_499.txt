@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:44.990667
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷六十三之十三目録
+<pb:KR3k0059_WYG_499-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻六十三之十三目録¶
+　　去聲　　　四寘韻十三¶
+　異　致　備¶

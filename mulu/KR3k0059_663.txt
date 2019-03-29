@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:53.536365
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷八十二之一目録
+<pb:KR3k0059_WYG_663-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻八十二之一目録¶
+　　去聲　　　二十三漾韻一¶
+　漾　上　望¶

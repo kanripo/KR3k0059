@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:45.483710
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷六十三之十八目録
+<pb:KR3k0059_WYG_509-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻六十三之十八目録¶
+　　去聲　　　四寘韻十八¶
+　粹　侍　誼　帥　厠　寄　睡　忌　貳　萃¶

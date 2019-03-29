@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:39.694266
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷四十五目録
+<pb:KR3k0059_WYG_385-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四十五目録¶
+　　上聲　　　十五潸韻¶
+　潸　眼　簡　版　琖　産　限　睅　撰　棧　綰¶
+　矕　赧　戁　滻　嵼　醆　䎒　剗　羼　丳　僝¶
+　睆　柬　揀　莞　僴　蝂　眅　鈑　輚¶
