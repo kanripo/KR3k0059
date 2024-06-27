@@ -1,0 +1,15 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:36:02.095218
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷九十九之九[目録]
+<pb:KR3k0059_WYG_817-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷九十九之九¶
+　　入聲　　　十藥韻九¶
+　泊　搏　籥　崿　鍔　藿　嚼　杓　勺　𥴮　酪¶
+　謔　廓　綽　霍　爍　鑊　莫　籜　鑠　繳　諤¶
+　鄂　亳　恪¶
+<pb:KR3k0059_WYG_817-1b>¶
+　¶
