@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十三之四目録
-<pb:KR3k0059_WYG_446-1a>¶
+<pb:KR3k0059_WYG_447-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十三之四目録¶
 　　上聲　　　二十三梗韻四¶
@@ -12,5 +12,5 @@
 　哽　綆　秉　鯁　耿　璟　憬　荇　獷　併　皿¶
 　囧　煚　靚　礦　艋　蜢　黽　&KR1855;　怲　蛃　窉¶
 　骾　㾪　箵　冷　靖　㯳　奣　悜　睛　裎¶
-<pb:KR3k0059_WYG_446-1b>¶
+<pb:KR3k0059_WYG_447-1b>¶
 　¶

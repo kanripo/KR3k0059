@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十五之三目録
-<pb:KR3k0059_WYG_772-1a>¶
+<pb:KR3k0059_WYG_773-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十五之三目録¶
 　　入聲　　　六月韻三¶
 　闕　越　謁　没¶
-<pb:KR3k0059_WYG_772-1b>¶
+<pb:KR3k0059_WYG_773-1b>¶
 　¶

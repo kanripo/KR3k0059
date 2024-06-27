@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十三之三目録
-<pb:KR3k0059_WYG_612-1a>¶
+<pb:KR3k0059_WYG_613-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十三之三目録¶
 　　去聲　　　十四願韻三¶
 　寸　困　頓　遯　建　憲¶
-<pb:KR3k0059_WYG_612-1b>¶
+<pb:KR3k0059_WYG_613-1b>¶
 　¶

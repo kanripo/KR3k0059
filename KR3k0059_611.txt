@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十三之二目録
-<pb:KR3k0059_WYG_610-1a>¶
+<pb:KR3k0059_WYG_611-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十三之二目録¶
 　　去聲　　　十四願韻二¶
 　萬　飯　獻　健¶
-<pb:KR3k0059_WYG_610-1b>¶
+<pb:KR3k0059_WYG_611-1b>¶
 　¶

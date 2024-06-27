@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四十七之四[目録]
-<pb:KR3k0059_WYG_406-1a>¶
+<pb:KR3k0059_WYG_407-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四十七之四¶
 　　上聲　　　十七篠韻四¶
@@ -13,5 +13,5 @@
 　䍮　駣　鮡　慓　摽　麨　縹　醥　篻　渺　緲¶
 　訬　藐　淼　佋　袑　蟜　撟　嬌　譑　䚩　蹻¶
 　褾　標　㟽　殍　溔　鷕　悄　愀　釥　繚　僚¶
-<pb:KR3k0059_WYG_406-1b>¶
+<pb:KR3k0059_WYG_407-1b>¶
 　麃　昭　夭　佻　燎　趙　兆¶

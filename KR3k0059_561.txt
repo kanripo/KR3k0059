@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十七之一目録
-<pb:KR3k0059_WYG_560-1a>¶
+<pb:KR3k0059_WYG_561-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十七之一目録¶
 　　去聲　　　八霽韻一¶
 　霽　制　計¶
-<pb:KR3k0059_WYG_560-1b>¶
+<pb:KR3k0059_WYG_561-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十七之三目録
-<pb:KR3k0059_WYG_350-1a>¶
+<pb:KR3k0059_WYG_351-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十七之三目録¶
 　　上聲　　　七麌韻三¶
 　鼓　鼔　虎　古　股　羖　賈　蠱¶
-<pb:KR3k0059_WYG_350-1b>¶
+<pb:KR3k0059_WYG_351-1b>¶
 　¶

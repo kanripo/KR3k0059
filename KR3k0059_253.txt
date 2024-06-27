@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷二十四之二目録
-<pb:KR3k0059_WYG_252-1a>¶
+<pb:KR3k0059_WYG_253-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷二十四之二目録¶
 　　下平聲　　　九青韻二¶
 　涇　形　刑　邢　硎　鉶　型　陘　娙¶
-<pb:KR3k0059_WYG_252-1b>¶
+<pb:KR3k0059_WYG_253-1b>¶
 　¶

@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十一之四目録
-<pb:KR3k0059_WYG_738-1a>¶
+<pb:KR3k0059_WYG_739-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十一之四目録¶
 　　入聲　　　二沃韻四¶
@@ -13,5 +13,5 @@
 　裻　溽　斸　瘃　䒼　跼　挶　輂　朂　醁　淥¶
 　逯　騄　嚳　牿　襮　鄏　鵒　&KR1831;　告　鋈　熇¶
 　僕¶
-<pb:KR3k0059_WYG_738-1b>¶
+<pb:KR3k0059_WYG_739-1b>¶
 　¶

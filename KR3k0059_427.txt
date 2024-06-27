@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十一之二目録
-<pb:KR3k0059_WYG_426-1a>¶
+<pb:KR3k0059_WYG_427-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十一之二目録¶
 　　上聲　　　二十一馬韻二¶
 　者　野　雅　瓦　寡¶
-<pb:KR3k0059_WYG_426-1b>¶
+<pb:KR3k0059_WYG_427-1b>¶
 　¶

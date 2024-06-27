@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十二之二目録
-<pb:KR3k0059_WYG_314-1a>¶
+<pb:KR3k0059_WYG_315-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十二之二目録¶
 　　上聲　　　二腫韻二¶
@@ -12,5 +12,5 @@
 　蛹　恐　尰　珙　栱　蛬　鞏　竦　悚　聳　洶¶
 　詾　湩　拲　㤨　溶　&KR0008;　恟　&KR0008;　鮦　䱋　軵¶
 　輁¶
-<pb:KR3k0059_WYG_314-1b>¶
+<pb:KR3k0059_WYG_315-1b>¶
 　¶

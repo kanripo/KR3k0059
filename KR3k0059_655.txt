@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十九之二目録
-<pb:KR3k0059_WYG_654-1a>¶
+<pb:KR3k0059_WYG_655-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十九之二目録¶
 　　去聲　　　二十號韻二¶
@@ -13,5 +13,5 @@
 　驁　瑁　媢　翿　縞　懊　澳　慥　嫪　奡　趮¶
 　菢　虣　膏　犒　郜　芼　鑿　氉　埽　禱　墺¶
 　瀑　旄　燠　&KR2518;　靠　&KR2482;　糙¶
-<pb:KR3k0059_WYG_654-1b>¶
+<pb:KR3k0059_WYG_655-1b>¶
 　¶

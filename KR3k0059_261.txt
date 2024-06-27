@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷二十四之六目録
-<pb:KR3k0059_WYG_260-1a>¶
+<pb:KR3k0059_WYG_261-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷二十四之六目録¶
 　　下平聲　　　九青韻六¶
@@ -12,5 +12,5 @@
 　滎　扃　坰　駉　葶　鼮　町　軨　酃　聹　桯¶
 　瞑　暝　嫇　濙　絅　侀　鈃　綎　娗　筳　麢¶
 　䩠　&KR2994;　嵤¶
-<pb:KR3k0059_WYG_260-1b>¶
+<pb:KR3k0059_WYG_261-1b>¶
 　¶

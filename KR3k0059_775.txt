@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十五之四目録
-<pb:KR3k0059_WYG_774-1a>¶
+<pb:KR3k0059_WYG_775-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十五之四目録¶
 　　入聲　　　六月韻四¶
 　伐　罰　卒　竭　窟¶
-<pb:KR3k0059_WYG_774-1b>¶
+<pb:KR3k0059_WYG_775-1b>¶
 　¶

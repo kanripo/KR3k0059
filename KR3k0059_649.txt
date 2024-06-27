@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十七之四目録
-<pb:KR3k0059_WYG_648-1a>¶
+<pb:KR3k0059_WYG_649-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷七十七之四目録¶
 　　去聲　　　十八嘯韻四¶
@@ -13,5 +13,5 @@
 　漂　醮　銚　驃　蔦　爝　趭　&KR1700;　慓　繞　摽¶
 　嬈　覜　獥　揺　窱　葽　鷯　顤　敫　訆　哨¶
 　約　僄　艞　嘹　勡　&KR2669;　&KR3348;　䐹　嬥　&KR2062;　璙¶
-<pb:KR3k0059_WYG_648-1b>¶
+<pb:KR3k0059_WYG_649-1b>¶
 　裱　俵　趒¶

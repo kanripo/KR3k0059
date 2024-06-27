@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十九之二[目録]
-<pb:KR3k0059_WYG_802-1a>¶
+<pb:KR3k0059_WYG_803-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷九十九之二¶
 　　入聲　　十藥韻二¶
 　略　作¶
-<pb:KR3k0059_WYG_802-1b>¶
+<pb:KR3k0059_WYG_803-1b>¶
 　¶

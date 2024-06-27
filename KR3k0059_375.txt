@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四十之三目録
-<pb:KR3k0059_WYG_374-1a>¶
+<pb:KR3k0059_WYG_375-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四十之三目録¶
 　　上聲　　　十賄韻三¶
@@ -13,5 +13,5 @@
 　骽　㞂　宷　䰂　茝　紿　詒　䈚　蓓　鼐　頦¶
 　駘　欸　琲　塏　廆　浼　皠　頠　滙　鮾　瘣¶
 　漼　璀　每　䃬　亥　乃¶
-<pb:KR3k0059_WYG_374-1b>¶
+<pb:KR3k0059_WYG_375-1b>¶
 　¶

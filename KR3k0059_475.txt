@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十之二目録
-<pb:KR3k0059_WYG_474-1a>¶
+<pb:KR3k0059_WYG_475-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十之二目録¶
 　　去聲　　　一送韻二¶
@@ -12,5 +12,5 @@
 　鞚　空　控　哢　湩　鬨　恫　贛　賵　&KR1970;　礱¶
 　霿　哄　羾　瞢　偬　詷　絧　&KR1808;　衷　涷　緵¶
 　㚇　㔶　凇　蕻　&KR1980;¶
-<pb:KR3k0059_WYG_474-1b>¶
+<pb:KR3k0059_WYG_475-1b>¶
 　¶

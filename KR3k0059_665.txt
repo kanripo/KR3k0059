@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十一之三目録
-<pb:KR3k0059_WYG_664-1a>¶
+<pb:KR3k0059_WYG_665-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻八十一之三目録¶
 　　去聲　　　二十二禡韻三¶
 　化　舍　價¶
-<pb:KR3k0059_WYG_664-1b>¶
+<pb:KR3k0059_WYG_665-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十六之三目録
-<pb:KR3k0059_WYG_542-1a>¶
+<pb:KR3k0059_WYG_543-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十六之三目錄¶
 　　　去聲　　七遇韻三¶
 　度　渡　賦¶
-<pb:KR3k0059_WYG_542-1b>¶
+<pb:KR3k0059_WYG_543-1b>¶
 　¶

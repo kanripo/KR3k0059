@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十之二目録
-<pb:KR3k0059_WYG_714-1a>¶
+<pb:KR3k0059_WYG_715-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十之二目録¶
 　　入聲　　　一屋韻二¶
 　竹　目¶
-<pb:KR3k0059_WYG_714-1b>¶
+<pb:KR3k0059_WYG_715-1b>¶
 　¶

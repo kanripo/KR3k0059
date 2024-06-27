@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十八目録
-<pb:KR3k0059_WYG_650-1a>¶
+<pb:KR3k0059_WYG_651-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十八目録¶
 　　去聲　　　十九效韻¶
@@ -12,5 +12,5 @@
 　儤　爆　&KR0449;　踔　趠　抝　窖　酵　嗃　袎　稍¶
 　樂　傚　較　鈔　礮　皰　&KR0251;　恔　笊　礉　櫂¶
 　覺　珓　斆　靿　窌　膠¶
-<pb:KR3k0059_WYG_650-1b>¶
+<pb:KR3k0059_WYG_651-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十二之一目録
-<pb:KR3k0059_WYG_604-1a>¶
+<pb:KR3k0059_WYG_605-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十二之一目録¶
 　　去聲　　　十三問韻一¶
 　問　聞　運　暈　韻¶
-<pb:KR3k0059_WYG_604-1b>¶
+<pb:KR3k0059_WYG_605-1b>¶
 　¶

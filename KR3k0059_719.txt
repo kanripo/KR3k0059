@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十之四目録
-<pb:KR3k0059_WYG_718-1a>¶
+<pb:KR3k0059_WYG_719-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十之四目録¶
 　　入聲　　　一屋韻四¶
 　穀　熟　谷¶
-<pb:KR3k0059_WYG_718-1b>¶
+<pb:KR3k0059_WYG_719-1b>¶
 　¶

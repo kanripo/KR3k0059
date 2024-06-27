@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十一目録
-<pb:KR3k0059_WYG_310-1a>¶
+<pb:KR3k0059_WYG_311-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十一目録¶
 　　上聲　　　一董韻¶
@@ -12,5 +12,5 @@
 　滃　琫　偬　懵　蓊　攏　&KR1469;　唪　洞　挏　曚¶
 　幪　&KR2032;　玤　憁　莑　菶　懂　硐　塕　&KR0934;　埲¶
 　侗　嗊　翪¶
-<pb:KR3k0059_WYG_310-1b>¶
+<pb:KR3k0059_WYG_311-1b>¶
 　¶

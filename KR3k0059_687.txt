@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十三之四目録
-<pb:KR3k0059_WYG_686-1a>¶
+<pb:KR3k0059_WYG_687-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻八十三之四目録¶
 　　去聲　　　二十四敬韻四¶
@@ -12,5 +12,5 @@
 　穽　諍　泳　請　倩　禜　硬　清　靚　檠　晟¶
 　獍　怲　更　横　醟　榜　迎　娉夐輕　併¶
 　儆　評　邴　証　詗　偵　并　遉　盟¶
-<pb:KR3k0059_WYG_686-1b>¶
+<pb:KR3k0059_WYG_687-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十三之四目録
-<pb:KR3k0059_WYG_754-1a>¶
+<pb:KR3k0059_WYG_755-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷九十三之四目録¶
 　　入聲　　　四質韻四¶
 　疾　術　一　乙　壹¶
-<pb:KR3k0059_WYG_754-1b>¶
+<pb:KR3k0059_WYG_755-1b>¶
 　¶

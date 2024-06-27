@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十四之三目録
-<pb:KR3k0059_WYG_530-1a>¶
+<pb:KR3k0059_WYG_531-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十四之三目録¶
 　　去聲　　　五未韻三¶
@@ -13,5 +13,5 @@
 　愾　&KR3742;　忥　欷　塈　摡　䀈　誹　芾　髴　疿¶
 　靅　泋　&KR3258;　□　屝　痱　䠊　蜚　翡　罻　㥜¶
 　緭　黂　气　&KR3171;¶
-<pb:KR3k0059_WYG_530-1b>¶
+<pb:KR3k0059_WYG_531-1b>¶
 　¶

@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十四之六目録
-<pb:KR3k0059_WYG_328-1a>¶
+<pb:KR3k0059_WYG_329-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十四之六目録¶
 　　上聲　　　四紙韻六¶
 　履　壘　誄　揆　癸　沚　趾　芷　畤　以　巳¶
 　苡　似　耜　汜　姒　巳　祀　史　使　駛¶
-<pb:KR3k0059_WYG_328-1b>¶
+<pb:KR3k0059_WYG_329-1b>¶
 　¶

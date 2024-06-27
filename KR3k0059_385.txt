@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四十三之三目録
-<pb:KR3k0059_WYG_384-1a>¶
+<pb:KR3k0059_WYG_385-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四十三之三目録¶
 　　上聲　　　十三阮韻三¶
@@ -13,5 +13,5 @@
 　悃　捆　輥　緄　鱒　䔿　撙　很　懇　墾　畚¶
 　圏　盾　刌　綣　鄢　混　沌　鼴　鰋　蝘　庉¶
 　㫃　噂　娩　烜　咺　焜¶
-<pb:KR3k0059_WYG_384-1b>¶
+<pb:KR3k0059_WYG_385-1b>¶
 　¶

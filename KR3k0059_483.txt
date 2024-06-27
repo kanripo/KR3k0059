@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十三之二目録
-<pb:KR3k0059_WYG_482-1a>¶
+<pb:KR3k0059_WYG_483-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十三之二目録¶
 　　去聲　　四寘韻二¶
 　事¶
-<pb:KR3k0059_WYG_482-1b>¶
+<pb:KR3k0059_WYG_483-1b>¶
 　¶

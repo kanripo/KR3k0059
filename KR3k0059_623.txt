@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十四之四目録
-<pb:KR3k0059_WYG_622-1a>¶
+<pb:KR3k0059_WYG_623-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十四之四目録¶
 　　去聲　　　十五翰韻四¶
 　&KR0312;　玩　爛　貫　半　案　按　炭¶
-<pb:KR3k0059_WYG_622-1b>¶
+<pb:KR3k0059_WYG_623-1b>¶
 　¶

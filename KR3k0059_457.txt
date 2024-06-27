@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十五之四目録
-<pb:KR3k0059_WYG_456-1a>¶
+<pb:KR3k0059_WYG_457-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十五之四目録¶
 　　上聲　　　二十五有韻四¶
 　久　負　厚　叟　走　守¶
-<pb:KR3k0059_WYG_456-1b>¶
+<pb:KR3k0059_WYG_457-1b>¶
 　¶

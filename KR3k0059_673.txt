@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十二之三目録
-<pb:KR3k0059_WYG_672-1a>¶
+<pb:KR3k0059_WYG_673-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷八十二之三目録¶
 　　去聲　　　二十三&KR0222;韻三¶
 　帳　浪　唱　讓　曠¶
-<pb:KR3k0059_WYG_672-1b>¶
+<pb:KR3k0059_WYG_673-1b>¶
 　¶

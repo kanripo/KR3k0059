@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十一之一目録
-<pb:KR3k0059_WYG_424-1a>¶
+<pb:KR3k0059_WYG_425-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十一之一目録¶
 　　上聲　　　二十一馬韻一¶
 　馬　下¶
-<pb:KR3k0059_WYG_424-1b>¶
+<pb:KR3k0059_WYG_425-1b>¶
 　¶

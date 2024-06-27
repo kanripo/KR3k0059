@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷二十六之四目録
-<pb:KR3k0059_WYG_278-1a>¶
+<pb:KR3k0059_WYG_279-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻二十六之四目録¶
 　　下平聲　　　十一尤韻四¶
 　舟　酬　讎　柔　儔　疇　籌　稠¶
-<pb:KR3k0059_WYG_278-1b>¶
+<pb:KR3k0059_WYG_279-1b>¶
 　¶

@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十八之三目録
-<pb:KR3k0059_WYG_366-1a>¶
+<pb:KR3k0059_WYG_367-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十八之三目録¶
 　　上聲　　　八薺韻三¶
@@ -12,5 +12,5 @@
 　娣　遞　涕　濟　蠡　澧　欐　鱧　泚　綮　䭬¶
 　䏿　棨　髀　禰　徯　媞　&KR1693;　癠　眯　&KR2089;　瀰¶
 　醍　緹¶
-<pb:KR3k0059_WYG_366-1b>¶
+<pb:KR3k0059_WYG_367-1b>¶
 　¶

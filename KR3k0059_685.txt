@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十三之三目録
-<pb:KR3k0059_WYG_684-1a>¶
+<pb:KR3k0059_WYG_685-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻八十三之三目録¶
 　　去聲　　　二十四敬韻三¶
 　盛　行　聖　詠　姓　慶¶
-<pb:KR3k0059_WYG_684-1b>¶
+<pb:KR3k0059_WYG_685-1b>¶
 　¶

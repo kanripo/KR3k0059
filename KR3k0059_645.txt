@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十七之二目録
-<pb:KR3k0059_WYG_644-1a>¶
+<pb:KR3k0059_WYG_645-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十七之二目録¶
 　　去聲　　　十八嘯韻二¶
 　竅　妙　詔　召　劭　要¶
-<pb:KR3k0059_WYG_644-1b>¶
+<pb:KR3k0059_WYG_645-1b>¶
 　¶

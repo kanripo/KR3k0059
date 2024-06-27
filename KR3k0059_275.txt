@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷二十六之二目録
-<pb:KR3k0059_WYG_274-1a>¶
+<pb:KR3k0059_WYG_275-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷二十六之二目録¶
 　　下平聲　　　十一尤韻二¶
 　劉　由　油　游　猷　悠　攸　牛¶
-<pb:KR3k0059_WYG_274-1b>¶
+<pb:KR3k0059_WYG_275-1b>¶
 　¶

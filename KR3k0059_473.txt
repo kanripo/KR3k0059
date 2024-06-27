@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十之一目録
-<pb:KR3k0059_WYG_472-1a>¶
+<pb:KR3k0059_WYG_473-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷六十之一目録¶
 　　去聲　　一送韻¶
 　送　夢　&KR0235;　洞　衆¶
-<pb:KR3k0059_WYG_472-1b>¶
+<pb:KR3k0059_WYG_473-1b>¶
 　¶

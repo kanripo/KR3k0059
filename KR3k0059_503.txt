@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十三之十二目録
-<pb:KR3k0059_WYG_502-1a>¶
+<pb:KR3k0059_WYG_503-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十三之十二目録¶
 　　去聲　　　四寘韻十二¶
 　瑞　智　記¶
-<pb:KR3k0059_WYG_502-1b>¶
+<pb:KR3k0059_WYG_503-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十七之七目録
-<pb:KR3k0059_WYG_572-1a>¶
+<pb:KR3k0059_WYG_573-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十七之七目錄¶
 　　去聲　　　八霽韻七¶
 　袂　繫　祭　隸　閉　逝　綴¶
-<pb:KR3k0059_WYG_572-1b>¶
+<pb:KR3k0059_WYG_573-1b>¶
 　¶

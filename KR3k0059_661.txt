@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十一之一目録
-<pb:KR3k0059_WYG_660-1a>¶
+<pb:KR3k0059_WYG_661-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷八十一之一目録¶
 　　去聲　　　二十二禡韻一¶
 　禡　駕　夜　下¶
-<pb:KR3k0059_WYG_660-1b>¶
+<pb:KR3k0059_WYG_661-1b>¶
 　¶

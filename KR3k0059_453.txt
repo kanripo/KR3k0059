@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十五之二目録
-<pb:KR3k0059_WYG_452-1a>¶
+<pb:KR3k0059_WYG_453-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十五之二目録¶
 　　上聲　　　二十五有韻二¶
 　手　口　母¶
-<pb:KR3k0059_WYG_452-1b>¶
+<pb:KR3k0059_WYG_453-1b>¶
 　¶

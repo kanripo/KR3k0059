@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十五之三目録
-<pb:KR3k0059_WYG_454-1a>¶
+<pb:KR3k0059_WYG_455-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十五之三目録¶
 　　上聲　　　二十五有韻三¶
 　後　栁　友　婦　斗　狗¶
-<pb:KR3k0059_WYG_454-1b>¶
+<pb:KR3k0059_WYG_455-1b>¶
 　¶

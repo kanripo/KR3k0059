@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷七十一之一目録
-<pb:KR3k0059_WYG_598-1a>¶
+<pb:KR3k0059_WYG_599-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻七十一之一目録¶
 　　去聲　　　十二震韻一¶
 　震　信　印　進　潤¶
-<pb:KR3k0059_WYG_598-1b>¶
+<pb:KR3k0059_WYG_599-1b>¶
 　¶

@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四十九之五目録
-<pb:KR3k0059_WYG_418-1a>¶
+<pb:KR3k0059_WYG_419-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四十九之五目録¶
 　　上聲　　　十九晧韻五¶
@@ -13,5 +13,5 @@
 　䴠　蝹　夭　杲　暠　縞　橑　轑　夰　䆃　恅¶
 　芺　&KR2756;　菒　蓩　栳　碯　套　璅　艁　媢　澇¶
 　燠¶
-<pb:KR3k0059_WYG_418-1b>¶
+<pb:KR3k0059_WYG_419-1b>¶
 　¶

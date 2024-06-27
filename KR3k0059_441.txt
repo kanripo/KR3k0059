@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五十三之一目録
-<pb:KR3k0059_WYG_440-1a>¶
+<pb:KR3k0059_WYG_441-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五十三之一目録¶
 　　上聲　　　二十三梗韻一¶
 　梗　影　景　井¶
-<pb:KR3k0059_WYG_440-1b>¶
+<pb:KR3k0059_WYG_441-1b>¶
 　¶

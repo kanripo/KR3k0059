@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八十九目録
-<pb:KR3k0059_WYG_710-1a>¶
+<pb:KR3k0059_WYG_711-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻八十九目録¶
 　　去聲　　　三十陷韻¶
 　陷　鑑　監　汎　梵　帆　懴　&KR3609;　儳　蘸　㽉¶
 　韽　闞　讒　鑱　劍　欠　淹¶
-<pb:KR3k0059_WYG_710-1b>¶
+<pb:KR3k0059_WYG_711-1b>¶
 　¶

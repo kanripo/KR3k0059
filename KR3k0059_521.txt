@@ -4,12 +4,12 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六十三之二十一目録
-<pb:KR3k0059_WYG_520-1a>¶
+<pb:KR3k0059_WYG_521-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻六十三之二十一目録¶
 　　去聲　　　四寘韻二十一¶
 　璲　檖　繸　睟　顇　諡　牸　植　熾　織　飼¶
 　食　積　忮　被　芰　懿　悸　覬　冀　暨　懻¶
 　惎　洎　穊　蔇　媿　匱　鐀　饋¶
-<pb:KR3k0059_WYG_520-1b>¶
+<pb:KR3k0059_WYG_521-1b>¶
 　¶

@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三十六之二目録
-<pb:KR3k0059_WYG_340-1a>¶
+<pb:KR3k0059_WYG_341-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三十六之二目録¶
 　　上聲　　　六語韻二¶
 　汝　茹　暑　䑕　&KR0112;　杵　處　貯　褚　楮　醑¶
 　糈　諝　湑　女　籹¶
-<pb:KR3k0059_WYG_340-1b>¶
+<pb:KR3k0059_WYG_341-1b>¶
 　¶

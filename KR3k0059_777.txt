@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷九十五之五目録
-<pb:KR3k0059_WYG_776-1a>¶
+<pb:KR3k0059_WYG_777-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻九十五之五目録¶
 　　入聲　　　六月韻五¶
 　笏　鉞　歇　發　突　忽　韤　勃　蹶　鶻　&KR3757;¶
 　筏¶
-<pb:KR3k0059_WYG_776-1b>¶
+<pb:KR3k0059_WYG_777-1b>¶
 　¶
