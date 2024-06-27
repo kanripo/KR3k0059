@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百二之七[目録]
-<pb:KR3k0059_WYG_864-1a>¶
+<pb:KR3k0059_WYG_865-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百二之七¶
 　　入聲　　　十三職韻七¶
 　棘　惑　黙　織　匿　億　臆　憶　特　勒　劾¶
 　慝　昃　仄¶
-<pb:KR3k0059_WYG_864-1b>¶
+<pb:KR3k0059_WYG_865-1b>¶
 　¶

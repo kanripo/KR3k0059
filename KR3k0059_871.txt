@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百三之二[目録]
-<pb:KR3k0059_WYG_870-1a>¶
+<pb:KR3k0059_WYG_871-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百三之二¶
 　　入聲　　　十四緝韻二¶
@@ -13,5 +13,5 @@
 　葺　褶　潗　苙　伋　岌　翕　歙　濈　裛　浥¶
 　熠　槢　揖　潝　霫　&KR2034;　悒　廿　挹　㙷　馵¶
 　岦　鈒　蕺　孴　㵫　霵¶
-<pb:KR3k0059_WYG_870-1b>¶
+<pb:KR3k0059_WYG_871-1b>¶
 　¶

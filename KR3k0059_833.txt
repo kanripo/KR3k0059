@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百之七[目録]
-<pb:KR3k0059_WYG_832-1a>¶
+<pb:KR3k0059_WYG_833-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百之七¶
 　　入聲　　　十一陌韻七¶
 　璧　驛　麥　額　柏　魄¶
-<pb:KR3k0059_WYG_832-1b>¶
+<pb:KR3k0059_WYG_833-1b>¶
 　¶

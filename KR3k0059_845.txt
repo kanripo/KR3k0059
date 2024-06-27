@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百一之一[目録]
-<pb:KR3k0059_WYG_844-1a>¶
+<pb:KR3k0059_WYG_845-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百一之一¶
 　　入聲　　　十二錫韻一¶
 　錫　壁　厯　歴　&KR0491;¶
-<pb:KR3k0059_WYG_844-1b>¶
+<pb:KR3k0059_WYG_845-1b>¶
 　¶

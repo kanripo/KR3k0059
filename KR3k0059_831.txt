@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百之六[目録]
-<pb:KR3k0059_WYG_830-1a>¶
+<pb:KR3k0059_WYG_831-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百之六¶
 　　入聲　　　十一陌韻六¶
 　格　役　帛　㦸¶
-<pb:KR3k0059_WYG_830-1b>¶
+<pb:KR3k0059_WYG_831-1b>¶
 　¶

@@ -4,10 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷一百二之一[目録]
-<pb:KR3k0059_WYG_852-1a>¶
+<pb:KR3k0059_WYG_853-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷一百二之一¶
 　　入聲　　　十三職韻一¶
 　職　國¶
-<pb:KR3k0059_WYG_852-1b>¶
+<pb:KR3k0059_WYG_853-1b>¶
 　¶
