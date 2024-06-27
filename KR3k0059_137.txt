@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十六之三[目録]
-<pb:KR3k0059_WYG_132-1a>¶
+<pb:KR3k0059_WYG_137-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十六之三目録¶
 　　下平聲　　　一先韻三¶
 　煙　燕　蓮　憐　田¶
+<pb:KR3k0059_WYG_137-1b>¶
+　¶

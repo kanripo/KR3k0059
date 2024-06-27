@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷五之三[目録]
-<pb:KR3k0059_WYG_038-1a>¶
+<pb:KR3k0059_WYG_043-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷五之三¶
 　　上平聲　　　五㣲韻三¶
@@ -13,3 +13,5 @@
 　楎　餥　騛　厞　蝛　葳　肵　鐖　刉　耭　嘰¶
 　鵗　譩　溰　犩　馡　婓　頎　碕　圻　禨　睎¶
 　騩¶
+<pb:KR3k0059_WYG_043-1b>¶
+　¶

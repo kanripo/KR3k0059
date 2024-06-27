@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷二十二之一目録
-<pb:KR3k0059_WYG_194-1a>¶
+<pb:KR3k0059_WYG_199-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷二十二之一目録¶
 　　下平聲　　　七陽韻一¶
 　陽　楊　揚¶
+<pb:KR3k0059_WYG_199-1b>¶
+　¶

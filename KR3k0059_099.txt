@@ -4,9 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十一之五[目録]
-<pb:KR3k0059_WYG_094-1a>¶
+<pb:KR3k0059_WYG_099-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十一之五¶
 　　上平聲　　　十一真韻五¶
 　頻　蘋　顰　嚬　銀　垠　筠　巾　囷　民　珉¶
 　緡　貧　蒓　淳　醇　純　脣　倫　綸　輪　淪¶
+<pb:KR3k0059_WYG_099-1b>¶
+　¶

@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四之三[目録]
-<pb:KR3k0059_WYG_018-1a>¶
+<pb:KR3k0059_WYG_023-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四之三¶
 　　上平聲　　　四支韻三¶
 　馳　池　規　危　夷　師　姿¶
+<pb:KR3k0059_WYG_023-1b>¶
+　¶

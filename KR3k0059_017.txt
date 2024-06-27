@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷三[目録]
-<pb:KR3k0059_WYG_012-1a>¶
+<pb:KR3k0059_WYG_017-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷三¶
 　　上平聲　　　三江韻¶
@@ -13,3 +13,5 @@
 　撞　幢　樁　淙　洚　橦　茳　娏　&KR3257;　憃　聜¶
 　㟅　谾　瑽　漎　豇　䵨　蛖　垹　梆　&KR2942;　&KR2945;¶
 　&KR3513;　䎫　跫　悾　韸¶
+<pb:KR3k0059_WYG_017-1b>¶
+　¶

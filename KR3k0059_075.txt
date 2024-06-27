@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷八之二[目録]
-<pb:KR3k0059_WYG_070-1a>¶
+<pb:KR3k0059_WYG_075-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷八之二目録¶
 　　上平聲　　　八齊韻二¶
@@ -13,3 +13,5 @@
 　雞　稽　笄　枅　兮　奚　嵇　蹊　㜎　傒　徯¶
 　騱　豀　鼷　鷖　䃜　㙠　黳　倪　齯　霓　猊¶
 　鯢　輗　醯　西　栖¶
+<pb:KR3k0059_WYG_075-1b>¶
+　¶

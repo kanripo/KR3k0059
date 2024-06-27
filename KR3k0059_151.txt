@@ -4,9 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十六之十[目録]
-<pb:KR3k0059_WYG_146-1a>¶
+<pb:KR3k0059_WYG_151-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十六之十目録¶
 　　下平聲　　　一先韻十¶
 　鞭　銓　筌　專　甎　圓　員　乾　䖍　愆　騫¶
 　權　拳　椽　傳¶
+<pb:KR3k0059_WYG_151-1b>¶
+　¶

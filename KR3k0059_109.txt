@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十三之一[目録]
-<pb:KR3k0059_WYG_104-1a>¶
+<pb:KR3k0059_WYG_109-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十三之一目録¶
 　　上平聲　　十三元韻一¶
 　元　原　源　黿　園　猨¶
+<pb:KR3k0059_WYG_109-1b>¶
+　¶

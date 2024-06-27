@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十一之四[目録]
-<pb:KR3k0059_WYG_092-1a>¶
+<pb:KR3k0059_WYG_097-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十一之四¶
 　　上平聲　　十一真韻四¶
 　麟　珍　瞋　塵　陳　春　津　秦¶
+<pb:KR3k0059_WYG_097-1b>¶
+　¶

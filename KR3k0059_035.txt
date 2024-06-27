@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四之九[目録]
-<pb:KR3k0059_WYG_030-1a>¶
+<pb:KR3k0059_WYG_035-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷四之九¶
 　　上平聲　　　四支韻九¶
@@ -13,3 +13,5 @@
 　匜　犧　飴　而　鴟　推　縻　璃　祁　綏　逵¶
 　咿　巇　酏　絺　羲　羸　肢　騏　訾　獅　竒¶
 　嗤　&KR0008;　咨　墮　萁　其　其　醨　粢　雎　睢¶
+<pb:KR3k0059_WYG_035-1b>¶
+　¶

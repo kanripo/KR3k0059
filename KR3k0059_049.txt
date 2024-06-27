@@ -4,9 +4,11 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷六之三[目録]
-<pb:KR3k0059_WYG_044-1a>¶
+<pb:KR3k0059_WYG_049-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷六之三¶
 　　上平聲　　　六魚韻三¶
 　余　予　譽　輿　餘　胥　狙　鋤　疏　蔬　梳¶
 　虛　噓　徐　豬¶
+<pb:KR3k0059_WYG_049-1b>¶
+　¶

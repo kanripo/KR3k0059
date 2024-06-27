@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷四之二[目録]
-<pb:KR3k0059_WYG_016-1a>¶
+<pb:KR3k0059_WYG_021-1a>¶
 　欽定四庫全書¶
 御定佩文韻府巻四之二¶
 　　上平聲　　四支韻二¶
 　宜　儀　皮　兒　離　施　知¶
+<pb:KR3k0059_WYG_021-1b>¶
+　¶

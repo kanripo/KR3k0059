@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十六之六[目録]
-<pb:KR3k0059_WYG_138-1a>¶
+<pb:KR3k0059_WYG_143-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十六之六目錄¶
 　　下平聲　　　一先韻六¶
 　仙　鮮　錢　煎¶
+<pb:KR3k0059_WYG_143-1b>¶
+　¶

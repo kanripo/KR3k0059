@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十六之一[目録]
-<pb:KR3k0059_WYG_128-1a>¶
+<pb:KR3k0059_WYG_133-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十六之一目録¶
 　　下平聲　　一先韻一¶
 　先　前　千　阡　箋　韉　天¶
+<pb:KR3k0059_WYG_133-1b>¶
+　¶

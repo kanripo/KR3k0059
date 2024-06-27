@@ -4,8 +4,10 @@
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: JUAN 卷十一之一[目録]
-<pb:KR3k0059_WYG_086-1a>¶
+<pb:KR3k0059_WYG_091-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十一之一¶
 　　上平聲　　十一眞韻一¶
 　眞　因　茵　辛　新　薪　晨　辰　臣¶
+<pb:KR3k0059_WYG_091-1b>¶
+　¶
