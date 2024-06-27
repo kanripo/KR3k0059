@@ -3,7 +3,7 @@
 #+DATE: 2015-08-24 23:35:29.046445
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: JUAN 卷十四之三[目録]
+#+PROPERTY: JUAN 卷十四之三目録
 <pb:KR3k0059_WYG_125-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十四之三¶

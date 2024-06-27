@@ -3,7 +3,7 @@
 #+DATE: 2015-08-24 23:35:30.061715
 #+PROPERTY: ID KR3k0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: JUAN 卷十六之十一[目録]
+#+PROPERTY: JUAN 卷十六之十一目録
 <pb:KR3k0059_WYG_153-1a>¶
 　欽定四庫全書¶
 御定佩文韻府卷十六之十一目録¶
