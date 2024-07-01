@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:39.777467
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷四十六之一目録
+<pb:KR3k0059_WYG_393-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷四十六之一目録¶
+　　上聲　　十六銑韻一¶
+　銑　善　遣　淺　典¶
+<pb:KR3k0059_WYG_393-1b>¶
+　¶

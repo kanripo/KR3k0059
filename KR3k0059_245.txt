@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:33.498582
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷二十三之九目録
+<pb:KR3k0059_WYG_245-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷二十三之九目録¶
+　　下平聲　　　八庚韻九¶
+　誠　呈　程　酲　聲　征　正　鉦¶
+<pb:KR3k0059_WYG_245-1b>¶
+　¶

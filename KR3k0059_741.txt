@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:57.616992
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷九十二之一目録
+<pb:KR3k0059_WYG_741-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻九十二之一目録¶
+　　入聲　　　三覺韻一¶
+　覺　角　桷　捔　翯　珏　較　𣙜　㩁¶
+<pb:KR3k0059_WYG_741-1b>¶
+　¶

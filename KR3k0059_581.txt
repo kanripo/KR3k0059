@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:48.848781
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷六十八之一目録
+<pb:KR3k0059_WYG_581-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷六十八之一目録¶
+　　去聲　　　九泰韻一¶
+　泰　㑹　帶　外¶
+<pb:KR3k0059_WYG_581-1b>¶
+　¶

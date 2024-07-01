@@ -1,0 +1,16 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:53.433631
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷八十一之四目録
+<pb:KR3k0059_WYG_667-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻八十一之四目録¶
+　　去聲　　　二十二禡韻四¶
+　射　射　罵　稼　架　詐　亞　婭　罅　跨　麝¶
+　咤　怕　訝　詫　嗄　稏　欛　迓　蜡　胯　帊¶
+　柘　崋　奼　卸　貰　弝　瀉　&KR3515;　&KR1737;　砑　靶¶
+　乍　樺　杷　垻¶
+<pb:KR3k0059_WYG_667-1b>¶
+　¶

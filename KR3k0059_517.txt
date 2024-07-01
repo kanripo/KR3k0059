@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:45.591907
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷六十三之十九目録
+<pb:KR3k0059_WYG_517-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻六十三之十九目録¶
+　　去聲　　四寘韻十九¶
+　穗　二　帔　臂　嗣　吹　遂　恣　四¶
+<pb:KR3k0059_WYG_517-1b>¶
+　¶

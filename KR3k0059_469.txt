@@ -1,0 +1,15 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:43.259547
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷五十八之二目録
+<pb:KR3k0059_WYG_469-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷五十八之二目録¶
+　　上聲　　　二十八琰韻二¶
+　染　掩　㸃　簟　貶　冉　苒　陜　諂　奄　漸¶
+　玷　忝　崦　剡　㶑　颭　芡　閃　㴸　嗛　歉¶
+　慊　溓　隒　广　獫　黶　檿　魘　儼　扂　&KR0008;¶
+<pb:KR3k0059_WYG_469-1b>¶
+　¶

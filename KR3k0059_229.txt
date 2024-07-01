@@ -1,0 +1,14 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:32.856611
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷二十三之一目録
+<pb:KR3k0059_WYG_229-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷二十三之一目録¶
+　　下平聲　　　八庚韻一¶
+　庚　更　羮　秔　阬　盲　横　觥　彭　棚　亨¶
+　鎗　英　瑛　烹　平　評　枰¶
+<pb:KR3k0059_WYG_229-1b>¶
+　¶

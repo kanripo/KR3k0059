@@ -1,0 +1,15 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:50.216430
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷七十二之二目録
+<pb:KR3k0059_WYG_607-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻七十二之二目録¶
+　　去聲　　　十三問韻二¶
+　訓　糞　奮　忿　醞　郡　分　紊　汶　僨　慍¶
+　焮　靳　近　斤　抆　絻　鄆　餫　貟　縕　璺¶
+　拚　攈　䩵　隱　薀　坋　㒚¶
+<pb:KR3k0059_WYG_607-1b>¶
+　¶

@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:33.424386
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷二十三之八目録
+<pb:KR3k0059_WYG_243-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷二十三之八目録¶
+　　下平聲　　　八庚韻八¶
+　嬰　纓　貞　成　盛　城¶
+<pb:KR3k0059_WYG_243-1b>¶
+　¶

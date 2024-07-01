@@ -1,0 +1,15 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:55.677747
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷八十七目録
+<pb:KR3k0059_WYG_707-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻八十七目録¶
+　　去聲　　　二十八勘韻¶
+　勘　暗　濫　啗　擔　憾　纜　瞰　琀　憺　紺¶
+　闞　三　暫　莟　甔　磡　灨　參　澹　淡　憨¶
+　瞰　鏨　淦　撍　懢　爁¶
+<pb:KR3k0059_WYG_707-1b>¶
+　¶

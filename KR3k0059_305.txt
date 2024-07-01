@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:35:36.016816
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷二十九之一目録
+<pb:KR3k0059_WYG_305-1a>¶
+　欽定四庫全書¶
+御定佩文韻府卷二十九之一目録¶
+　　下平聲　　十四鹽一¶
+　鹽　檐　廉　簾　嫌　嚴　占　髯　謙¶
+<pb:KR3k0059_WYG_305-1b>¶
+　¶

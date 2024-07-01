@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御定佩文韻府
+#+DATE: 2015-08-24 23:36:00.035876
+#+PROPERTY: ID KR3k0059
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: JUAN 卷九十六之二目録
+<pb:KR3k0059_WYG_783-1a>¶
+　欽定四庫全書¶
+御定佩文韻府巻九十六之二目録¶
+　　入聲　　　七曷韻二¶
+　活　鉢　脱　奪褐　割　沫　拔　葛　闥　渴¶
+<pb:KR3k0059_WYG_783-1b>¶
+　¶
